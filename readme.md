@@ -1,6 +1,19 @@
 AWS EC2 Snapshot Backup
 =======================
 
+Installation
+------------
+
+```
+mkdir /srv
+cd /srv
+git clone https://github.com/sormy/aws-ec2-rsnapshot.git
+cd aws-ec2-rsnapshot
+git checkout {version}
+node install
+ln -s /srv/aws-ec2-rsnapshot/aws-ec2-rsnapshot.js /usr/local/bin/aws-ec2-rsnapshot
+```
+
 Usage
 -----
 
@@ -29,14 +42,32 @@ Please look on http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-
 Example
 -------
 
-For example, we would like to store 7 daily snapshots and 8 weekly snapshots.
+For example, we would like to backup root voume and store 7 daily snapshots and 8 weekly snapshots.
 
 Here we assume that credentials and default region are stored in ~/.aws.
 
-File: /etc/crontab
+File: /etc/cron.daily/aws-ec2-rsnapshot
 ```
-...
+#!/bin/bash
 
-0 0 * * * root /root/bin/asb/aws-ec2-rsnapshot.js srv1.domain.com/daily 7 vol-12345678 sync
-1 0 * * 7 root /root/bin/asb/aws-ec2-rsnapshot.js srv1.domain.com/weekly 8 vol-12345678 sync
+output=$(aws-ec2-rsnapshot server.com/daily/root 7 vol-12345678 sync)
+if [ $? != 0 ]; then
+    echo $output
+fi
+```
+
+File: /etc/cron.weekly/aws-ec2-rsnapshot
+```
+#!/bin/bash
+
+output=$(aws-ec2-rsnapshot server.com/weekly/root 8 vol-12345678 sync)
+if [ $? != 0 ]; then
+    echo $output
+fi
+```
+
+Files below should have executable bit:
+```
+chmod +x /etc/cron.daily/aws-ec2-rsnapshot
+chmod +x /etc/cron.weekly/aws-ec2-rsnapshot
 ```
