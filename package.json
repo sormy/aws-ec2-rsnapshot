@@ -1,0 +1,25 @@
+{
+  "name": "aws-ec2-rsnapshot",
+  "version": "1.0.0",
+  "description": "AWS EC2 snapshot backup utility with similar to rsnapshot concept",
+  "main": "aws-ec2-rsnapshot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sormy/aws-ec2-rsnapshot.git"
+  },
+  "author": {
+    "email": "art.sormy@gmail.com",
+    "name": "Artem Butusov"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sormy/aws-ec2-rsnapshot/issues"
+  },
+  "homepage": "https://github.com/sormy/aws-ec2-rsnapshot#readme",
+  "dependencies": {
+    "moment": "^2.11.0"
+  }
+}

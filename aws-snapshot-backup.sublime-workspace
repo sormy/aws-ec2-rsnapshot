@@ -1,0 +1,2504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sha1",
+				"sha1_file()	standard Function"
+			],
+			[
+				"patient",
+				"patient_last_name"
+			],
+			[
+				"patient_",
+				"patient_first_name"
+			],
+			[
+				"patine",
+				"patient_first_name"
+			],
+			[
+				"us-",
+				"us-east-1"
+			],
+			[
+				"thro",
+				"through"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"filem",
+				"filemtime()	standard Function"
+			],
+			[
+				"system_",
+				"sys_get_temp_dir()	standard Function"
+			],
+			[
+				"PATHIN",
+				"PATHINFO_FILENAME	standard Constant"
+			],
+			[
+				"PAT",
+				"PATHINFO_FILENAME	standard Constant"
+			],
+			[
+				"PATHO",
+				"PATHINFO_EXTENSION	standard Constant"
+			],
+			[
+				"glossa",
+				"glossaryWords"
+			],
+			[
+				"bil",
+				"bilsubopId"
+			],
+			[
+				"convertAction",
+				"convertActionOrder"
+			],
+			[
+				"date",
+				"dateLocal"
+			],
+			[
+				"array_map",
+				"array_map()	standard Function"
+			],
+			[
+				"bilsub",
+				"bilsubop_id"
+			],
+			[
+				"usort",
+				"usort()	standard Function"
+			],
+			[
+				"sys",
+				"sys_get_temp_dir()	standard Function"
+			],
+			[
+				"file",
+				"filesystem"
+			],
+			[
+				"billing_p",
+				"billing_provider_name"
+			],
+			[
+				"bils",
+				"bilsubop_id"
+			],
+			[
+				"esacpe",
+				"escapeshellarg()	standard Function"
+			],
+			[
+				"mktime",
+				"mktime()	date Function"
+			],
+			[
+				"service_faci",
+				"service_facility_"
+			],
+			[
+				"usor",
+				"usort()	standard Function"
+			],
+			[
+				"JSON_ERR",
+				"JSON_ERROR_NONE	json Constant"
+			],
+			[
+				"fa",
+				"facility_provider"
+			],
+			[
+				"implode",
+				"implode()	standard Function"
+			],
+			[
+				"preg_",
+				"preg_split()	pcre Function"
+			],
+			[
+				"bill",
+				"bilallowed_amount"
+			],
+			[
+				"strpos",
+				"strpos()	standard Function"
+			],
+			[
+				"ARAY_",
+				"ARRAY_FILTER_USE_KEY	standard Constant"
+			],
+			[
+				"array_filter",
+				"array_filter()	standard Function"
+			],
+			[
+				"medi",
+				"medicareInsuranceId"
+			],
+			[
+				"bilpro",
+				"bilprojected_amount"
+			],
+			[
+				"array_mpa",
+				"array_map()	standard Function"
+			],
+			[
+				"work",
+				"worksheet"
+			],
+			[
+				"insurance",
+				"insurance_position"
+			],
+			[
+				"array_key_ex",
+				"array_key_exists()	standard Function"
+			],
+			[
+				"missing",
+				"missingFields"
+			],
+			[
+				"array_inter",
+				"array_intersect()	standard Function"
+			],
+			[
+				"bilsubop_",
+				"bilsubop_paid_amount"
+			],
+			[
+				"expe",
+				"expected_pending_amount"
+			],
+			[
+				"expected_",
+				"expected_charge_amount"
+			],
+			[
+				"pass",
+				"passthru()	standard Function"
+			],
+			[
+				"service",
+				"service_id"
+			],
+			[
+				"node",
+				"nodeValue"
+			],
+			[
+				"preg_replace_ca",
+				"preg_replace_callback()	pcre Function"
+			],
+			[
+				"array_intersec_",
+				"array_intersect_key"
+			],
+			[
+				"array_intersec",
+				"array_intersect_key"
+			],
+			[
+				"new",
+				"newCheckNumber"
+			],
+			[
+				"Unde",
+				"UnexpectedValueException()	SPL Exception"
+			],
+			[
+				"finfo_",
+				"finfo_file"
+			],
+			[
+				"FILEINF",
+				"FILEINFO_MIME_TYPE	fileinfo Constant"
+			],
+			[
+				"ctype_digi",
+				"ctype_digit()	ctype Function"
+			],
+			[
+				"esca",
+				"escapeshellarg"
+			],
+			[
+				"tmpnm",
+				"tempnam()	standard Function"
+			],
+			[
+				"escape",
+				"escapeshellarg"
+			],
+			[
+				"record",
+				"recordValues"
+			],
+			[
+				"tmpn",
+				"tempnam()	standard Function"
+			],
+			[
+				"PATHINFO",
+				"PATHINFO_FILENAME	standard Constant"
+			],
+			[
+				"strcase",
+				"strcasecmp()	Core Function"
+			],
+			[
+				"str_spl",
+				"str_split()	standard Function"
+			],
+			[
+				"Acquire",
+				"acquireImage"
+			],
+			[
+				"filetime",
+				"filemtime"
+			],
+			[
+				"PATH",
+				"PATHINFO_EXTENSION	standard Constant"
+			],
+			[
+				"produc",
+				"productKey"
+			],
+			[
+				"top",
+				"topimageintheviewchanged"
+			],
+			[
+				"source",
+				"sourceuiclosed"
+			],
+			[
+				"mouse",
+				"mouserightclick"
+			],
+			[
+				"mosu",
+				"mouseclick"
+			],
+			[
+				"imagearea",
+				"imageareaselected"
+			],
+			[
+				"opendir",
+				"opendir()	standard Function"
+			],
+			[
+				"PATHINFO_E",
+				"PATHINFO_EXTENSION	standard Constant"
+			],
+			[
+				"pathinfo",
+				"pathinfo()	standard Function"
+			],
+			[
+				"str_repea",
+				"str_repeat()	standard Function"
+			],
+			[
+				"preg_replc",
+				"preg_replace_callback()	pcre Function"
+			],
+			[
+				"ms",
+				"msgCls"
+			],
+			[
+				"replace",
+				"replaceString"
+			],
+			[
+				"fnmatc",
+				"fnmatch()	standard Function"
+			],
+			[
+				"own",
+				"ownerCt"
+			],
+			[
+				"str_repl",
+				"str_replace()	standard Function"
+			],
+			[
+				"preg_quo",
+				"preg_quote()	pcre Function"
+			],
+			[
+				"temp",
+				"tempnam()	standard Function"
+			],
+			[
+				"PREG_",
+				"PREG_OFFSET_CAPTURE	pcre Constant"
+			],
+			[
+				"not",
+				"notBilledCount"
+			],
+			[
+				"mat",
+				"matchedCount"
+			],
+			[
+				"last",
+				"lastTotalPays"
+			],
+			[
+				"lastMat",
+				"lastMatchedPays"
+			],
+			[
+				"lastTotal",
+				"lastTotalPays"
+			],
+			[
+				"lastMatched",
+				"lastMatchedRecords"
+			],
+			[
+				"array_interse",
+				"array_intersect_key"
+			],
+			[
+				"array_se",
+				"array_search()	standard Function"
+			],
+			[
+				"array_slice",
+				"array_slice()	standard Function"
+			],
+			[
+				"array_",
+				"array_slice"
+			],
+			[
+				"bilallow",
+				"bilallowed_amount"
+			],
+			[
+				"markTe",
+				"markTestSkipped"
+			],
+			[
+				"json_eonc",
+				"json_encode()	json Function"
+			],
+			[
+				"expec",
+				"expectedHeader"
+			],
+			[
+				"url",
+				"urlencode()	standard Function"
+			],
+			[
+				"FILE",
+				"FILE_EXCEL"
+			],
+			[
+				"colum",
+				"columnCount"
+			],
+			[
+				"lastP",
+				"lastPageInstanceId"
+			],
+			[
+				"file_put_contents",
+				"file_put_contents()	standard Function"
+			],
+			[
+				"JSON_ER",
+				"JSON_ERROR_NONE	json Constant"
+			],
+			[
+				"json_las",
+				"json_last_error()	json Function"
+			],
+			[
+				"CURLINFO_CON",
+				"CURLINFO_CONTENT_TYPE	curl Constant"
+			],
+			[
+				"debug",
+				"debug_print_backtrace()	Core Function"
+			],
+			[
+				"file_put",
+				"file_put_contents()	standard Function"
+			],
+			[
+				"preg_matc",
+				"preg_match_all"
+			],
+			[
+				"getSelect",
+				"getSelectionModel"
+			],
+			[
+				"primary",
+				"primaryKey"
+			],
+			[
+				"array_reduce",
+				"array_reduce()	standard Function"
+			],
+			[
+				"array_reduc",
+				"array_reduce()	standard Function"
+			],
+			[
+				"json_decode",
+				"json_decode()	json Function"
+			],
+			[
+				"curl_se",
+				"curl_setopt_array"
+			],
+			[
+				"EX",
+				"EXTEND_ICD10"
+			],
+			[
+				"EXTEN",
+				"EXTEND_ICD9"
+			],
+			[
+				"fge",
+				"fgets()	standard Function"
+			],
+			[
+				"file_get_cont",
+				"file_get_contents()	standard Function"
+			],
+			[
+				"file_exis",
+				"file_exists()	standard Function"
+			],
+			[
+				"JSON_E",
+				"JSON_ERROR_NONE	json Constant"
+			],
+			[
+				"json_l",
+				"json_last_error()	json Function"
+			],
+			[
+				"json_de",
+				"json_decode()	json Function"
+			],
+			[
+				"JSON_",
+				"JSON_UNESCAPED_SLASHES	json Constant"
+			],
+			[
+				"htmlspe",
+				"htmlspecialchars_decode"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "aws-snapshot-backup.js",
+			"settings":
+			{
+				"buffer_size": 5051,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/sormy/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 2983,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/moment/package.json",
+			"settings":
+			{
+				"buffer_size": 3830,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".jshintrc",
+			"settings":
+			{
+				"buffer_size": 23,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 673,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"php",
+					""
+				],
+				[
+					"phpunit",
+					""
+				],
+				[
+					"Packages/User/php.sublime-build",
+					""
+				]
+			],
+			[
+				"php",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "rena",
+		"selected_items":
+		[
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"cop",
+				"File: Copy Path"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"dle",
+				"File: Delete"
+			],
+			[
+				"de",
+				"File: Delete"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"rean",
+				"File: Rename"
+			],
+			[
+				"rea",
+				"File: Rename"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lin",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"asika",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"d",
+				"File: Delete"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"copy ",
+				"File: Copy Path"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"co",
+				"File: Copy Name"
+			],
+			[
+				"copy p",
+				"File: Copy Path"
+			],
+			[
+				"renma",
+				"File: Rename"
+			],
+			[
+				"deb",
+				"Xdebug: Add/Remove Breakpoint"
+			],
+			[
+				"app",
+				"Find Results: Apply Changes"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"apl",
+				"Find Results: Apply Changes"
+			],
+			[
+				"ap",
+				"Find Results: Apply Changes"
+			],
+			[
+				"appl",
+				"Find Results: Apply Changes"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"compa",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"fix",
+				"FixMyJS"
+			],
+			[
+				"forma",
+				"Tag: Auto-Format Tags on Document"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax p",
+				"Set Syntax: PHP"
+			],
+			[
+				"path",
+				"File: Copy Path"
+			],
+			[
+				"pat",
+				"File: Copy Path"
+			],
+			[
+				"COMPARE",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"COMP",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"svn",
+				"Preferences: SVN Settings"
+			],
+			[
+				"svn log",
+				"SVN: (File) Log"
+			],
+			[
+				"inden",
+				"Indent XML"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"subl",
+				"Sublimerge: Compare to Snapshot"
+			],
+			[
+				"indent",
+				"Indent XML"
+			],
+			[
+				"ind",
+				"Indent XML"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"Markmon launch"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 254.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/sormy/htdocs/aws-tools",
+		"/Users/sormy/htdocs/aws-tools/node_modules",
+		"/Users/sormy/htdocs/aws-tools/node_modules/moment",
+		"/Users/sormy/htdocs/aws-tools/node_modules/moment/min"
+	],
+	"file_history":
+	[
+		"/Users/sormy/htdocs/emsow-git/medpoint-parse-deposits-report.php",
+		"/Users/sormy/htdocs/emsow-git/medpoint-auto-posting2.php",
+		"/Users/sormy/htdocs/emsow-git/medpoint-auto-posting.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/RecordFinder/AbstractFinder.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/MedPoint/ReconcileOldReportParser.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/MedPoint/GenericReconcileReportParser.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/MedPoint/ReconcileCommand.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/Reconcile/ReconcileAnalysis.php",
+		"/Users/sormy/htdocs/emsow-git/utils/billing-medpoint-posting.php",
+		"/Users/sormy/htdocs/emsow-git/include/config/example.php",
+		"/Users/sormy/htdocs/emsow-git/include/config/default.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/Automator/PostingAutomator.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/MedPoint/PostingCommand.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/MedPoint/RecordFinder.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/FeeSchedule/ImportFeesCommand.php",
+		"/Users/sormy/htdocs/emsow-git/utils/fees-import.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/ReportParser/AbstractExcelParser.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/MedPoint/ReconcileReportParser.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/IntegratedMP/ReportParser.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/MedPoint/DetailedPostingReportParser.php",
+		"/Users/sormy/htdocs/emsow-git/medpoint-parse-reconcile-report.php",
+		"/Users/sormy/htdocs/emsow-git/medpoint-parse-posting-report.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/DataExport.php",
+		"/Users/sormy/htdocs/emsow-git/medpoint-parse-posting-report3.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/MedPoint/HybridPostingReportParser.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/Eob/EraParser.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/ReportParser/SummaryAggregator.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/MedPoint/DepositsReportParser.php",
+		"/Users/sormy/htdocs/emsow-git/medpoint-parse-posting-report2.php",
+		"/Users/sormy/htdocs/emsow-git/var/log/warnings",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/MedPoint/PostingReportParser.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/MedPoint/DepositsReportAggregator.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/Storage/Storage.php",
+		"/Users/sormy/htdocs/emsow-git/include/api/clearing.php",
+		"/Users/sormy/htdocs/emsow-git/check-results.txt",
+		"/Users/sormy/htdocs/emsow-git/include/api/references/clehouses.php",
+		"/Users/sormy/htdocs/emsow-git/include/lists.php",
+		"/Users/sormy/htdocs/emsow-git/include/utils.php",
+		"/Users/sormy/htdocs/emsow-git/env/cloud/srv/emsow/bin/emsow-domain-new",
+		"/Users/sormy/htdocs/emsow-git/include/class/Service/Checker.php",
+		"/Users/sormy/htdocs/emsow-git/include/api/billing/billing_module.php",
+		"/Users/sormy/htdocs/emsow-git/utils/star-reconcile.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/ReportParser/AbstractParser.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/Eob/PostingAutomator.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/ClearingBatchGenerator.php",
+		"/Users/sormy/htdocs/emsow-git/include/core/cr_utils.php",
+		"/Users/sormy/htdocs/emsow-git/js/billing/ChecksGrid.js",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/ReportParser/AbstractPdfParser.php",
+		"/Users/sormy/Downloads/Adobe 2015/Keygen & Patch/disable_activation.cmd",
+		"/Users/sormy/Soft for Windows/sony vpcf11pfxh win10/drivers.txt",
+		"/Users/sormy/htdocs/emsow-git/vendor/doctrine/cache/lib/Doctrine/Common/Cache/CacheProvider.php",
+		"/Users/sormy/htdocs/emsow-git/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FilesystemCache.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/Reconcile/ReportMatcher.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/Eob/PostingView.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/Eob/PostingSummary.php",
+		"/Users/sormy/htdocs/emsow-git/js/run/002.MainTabPanel.js",
+		"/Users/sormy/htdocs/emsow-git/js/core/ModulesClass.js",
+		"/Users/sormy/htdocs/emsow-git/vendor/doctrine/cache/lib/Doctrine/Common/Cache/FileCache.php",
+		"/Users/sormy/htdocs/emsow-git/vendor/doctrine/orm/lib/Doctrine/ORM/Cache.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/Eob/CachingEraParser.php",
+		"/Users/sormy/htdocs/emsow-git/vendor/symfony/symfony/src/Symfony/Component/Validator/Mapping/Cache/CacheInterface.php",
+		"/Users/sormy/htdocs/emsow-git/include/billing_functions.php",
+		"/Users/sormy/htdocs/emsow-git/include/api/billing/billing_actions_adjustment.php",
+		"/Users/sormy/htdocs/emsow-git/include/api/billing/billing_actions.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/ServiceBilling.php",
+		"/Users/sormy/htdocs/emsow-git/js/components/GenericEditWindowEx.js",
+		"/Users/sormy/htdocs/emsow-git/css/100.App.Icons.css",
+		"/Users/sormy/htdocs/emsow-git/js/components/DateRangeField.js",
+		"/Users/sormy/htdocs/emsow-git/include/api/billing/checks.php",
+		"/Users/sormy/htdocs/emsow-git/utils/updates/update_20151125161139.13603.sql",
+		"/Users/sormy/htdocs/emsow-git/templates/report_x12_835.html",
+		"/Users/sormy/htdocs/emsow-git/js/billing/BillingModuleOptions.js",
+		"/Users/sormy/htdocs/emsow-git/js/billing/BillingModule.js",
+		"/Users/sormy/htdocs/emsow-git/js/clearing/posting/EobPostingSummaryGrid.js",
+		"/Users/sormy/htdocs/emsow-git/js/clearing/posting/EobPostingSummaryStore.js",
+		"/Users/sormy/htdocs/emsow-git/js/components/AliasesField.js",
+		"/Users/sormy/htdocs/emsow-git/js/clearing/posting/EobPostingSummaryDialog.js",
+		"/Users/sormy/htdocs/emsow-git/data/x12/X12_005010X231A1_999.xsd",
+		"/Users/sormy/htdocs/emsow-git/js/clearing/posting/EobPostingDialog.js",
+		"/Users/sormy/htdocs/emsow-git/js/clearing/posting/EobPostingStore.js",
+		"/Users/sormy/htdocs/emsow-git/js/clearing/posting/EobPostingGrid.js",
+		"/Users/sormy/htdocs/emsow-git/include/class/X12/Set835Parser.php",
+		"/Users/sormy/htdocs/emsow-git/js/components/CheckboxGroupAlt.js",
+		"/Users/sormy/htdocs/emsow-git/js/templates/clearing-file-type.js",
+		"/Users/sormy/htdocs/emsow-git/js/templates/clearing-file-is-opened.js",
+		"/Users/sormy/htdocs/emsow-git/js/clearing/ClearingGrid.js",
+		"/Users/sormy/htdocs/emsow-git/js/clearing/ClearingModule.js",
+		"/Users/sormy/htdocs/emsow-git/js/billing/BillingAdjustmentDialog.js",
+		"/Users/sormy/htdocs/emsow-git/js/clearing/ClearingOptions.js",
+		"/Users/sormy/htdocs/emsow-git/utils/updates/update_20151125225738.13603.sql",
+		"/Users/sormy/htdocs/emsow-git/include/class/Daemon/ClearingBridgeDaemon.php",
+		"/Users/sormy/htdocs/emsow-git/js/billing/BillingChargesGrid.js",
+		"/Users/sormy/htdocs/emsow-git/js/admin/AuditModuleResultsGrid.js",
+		"/Users/sormy/htdocs/emsow-git/js/billing/submit-dialogs/superbill/SuperbillsSubmitGrid.js",
+		"/Users/sormy/htdocs/emsow-git/js/references/ReportTemplateConsoleLog.js",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/Eob/PostingCommand.php",
+		"/Users/sormy/htdocs/emsow-git/js/billing/StudiesBillingDialog.js",
+		"/Users/sormy/htdocs/emsow-git/js/reports/MessageSendErrorsDialog.js",
+		"/Users/sormy/htdocs/emsow-git/js/orders/OrdersModule.js",
+		"/Users/sormy/htdocs/emsow-git/include/templates/clearing-file-info.tpl",
+		"/Users/sormy/htdocs/emsow-git/js/templates/clearing-file-info.js",
+		"/Users/sormy/htdocs/emsow-git/js/templates/clearing-file-name.js",
+		"/Users/sormy/htdocs/emsow-git/js/templates/clearing-batch-info.js",
+		"/Users/sormy/htdocs/emsow-git/js/common/Format.js",
+		"/Users/sormy/htdocs/emsow-git/var/log/dumps",
+		"/Users/sormy/htdocs/emsow-git/var/log/sql",
+		"/Users/sormy/htdocs/emsow-git/include/class/Billing/Eob/RecordFinder.php",
+		"/Users/sormy/htdocs/emsow-git/js/billing/BillingModuleGrid.js",
+		"/Users/sormy/htdocs/emsow-git/js/components/GenericFilesGrid.js",
+		"/Users/sormy/htdocs/emsow-git/utils/ttr_check.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Export/Umedex/PatientVisitExporter.php",
+		"/Users/sormy/htdocs/emsow-git/domains-all.txt",
+		"/Users/sormy/htdocs/emsow-git/tmp/_claim_generator/flats/004010X091A1_835.conf",
+		"/Users/sormy/htdocs/emsow-git/tmp/_claim_generator/x12_txt2dat_all.bat",
+		"/Users/sormy/htdocs/emsow-git/include/api/references/accounts.php",
+		"/Users/sormy/htdocs/emsow-git/data/ttr.conf",
+		"/Users/sormy/htdocs/emsow-git/include/class/StatementGenerator.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/DataProvider/ExamDataProvider.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/DataProvider/ServiceDataProvider.php",
+		"/Users/sormy/htdocs/emsow-git/include/api/billing/billing_dialog.php",
+		"/Users/sormy/htdocs/emsow-git/domains-active.txt",
+		"/Users/sormy/htdocs/emsow-git/env/cloud/srv/emsow/skel/bin/start-domain",
+		"/Users/sormy/htdocs/emsow-git/include/class/X12/Dictionary.php",
+		"/Users/sormy/htdocs/emsow-git/include/core/cr_main.php",
+		"/Users/sormy/htdocs/emsow-git/vendor/symfony/symfony/src/Symfony/Component/Console/Input/InputOption.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Export/Umedex/ReferringFacilityExporter.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Export/Umedex/ReferringDoctorFacilityExporter.php",
+		"/Users/sormy/htdocs/emsow-git/include/class/Export/Umedex/ReferringDoctorExporter.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>,-vendor/*,-var/cache,-app/cache,-docs/*,-*-all*.js,-*-all,*.css,*.js,*.tpl,*.php,*.html,*.sql",
+			"<project>,-vendor/*,-var/cache,-app/cache,-docs/*,-*-all*.js,-*-all,*.css,*.js,*.tpl,*.php,*.html",
+			"<project>,-vendor/*,-var/cache,-app/cache,-doc,-*-all*.js,-*-all,*.css,*.js,*.tpl,*.php,*.html",
+			"<project>,-vendor/*,-var/cache,-app/cache,-docs,-*-all*.js,-*-all,*.css,*.js,*.tpl,*.php,*.html",
+			"<project>,-vendor/*,-var/cache,-app/cache,-*-all*.js,-*-all,*.css,*.js,*.tpl,*.php,*.html",
+			"<project>,-vendor/*,-var/cache,-app/cache,-*-all*.js,-*-all,*.css,*.js,*.tpl,*.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,-*-all*.js,-*-all*.css,*.js,*.tpl,*.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,-*-all*.js,-*-all*.css,*.js,*.tpl",
+			"<project>,-var/cache,-app/cache,-*-all*.js,-*-all*.css,*.js,*.tpl",
+			"<project>,-vendor/*,-var/cache,-app/cache,-*-all*.js,-*-all*.css,*.js,*.tpl",
+			"<project>,-vendor/*,-var/cache,-app/cache,-*-all*.js,-*-all*.css,*.php,*.js",
+			"<project>,-vendor/*,-var/cache,-app/cache,*-all*.js,-*-all*.css,*.php,*.js",
+			"<project>,-vendor/*,-var/cache,-app/cache,-js/*all*.js,-css/*all*.css,*.php,*.js",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,*.js",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php",
+			"/Users/sormy/htdocs/emsow-git/include/class/Sql/Builder",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,*.js",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php",
+			"/Users/sormy/htdocs/emsow-git/data/sr",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,*.js",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,*.js,*.tpl",
+			"/Users/sormy/htdocs/emsow-git/src/UnvSoft/Component/Database",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,*.js,*.tpl",
+			"<project>,-var/cache,-app/cache,*.php,*.js,*.tpl",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,*.js,*.tpl",
+			"<project>,-var/cache,-app/cache,*.php,*.js,*.tpl",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,*.js,*.tpl",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,*.js",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,-structured_reporting_functions.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,serviceschedule.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,*.js",
+			"<project>,*.php",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,*.js",
+			"<project>",
+			"<project>,*.php",
+			"<project>,-var/cache,-app/cache,*.php",
+			"<project>,-var/cache,-app/cache",
+			"<project>,-var/cache,-app/cache,*.php",
+			"<project>,-var/cache,-app/cache,*.php,*.js",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php,*.js",
+			"<project>,-vendor/*,-var/cache,-app/cache,*.php",
+			"<project>,-vendor/*,-var/cache,*.php",
+			"<project>,-vendor/*,*.php",
+			"<project>,-/vendor/*,*.php",
+			"<project>,-/vendor/*,*.php,*.js",
+			"<project>,-/vendor/*,*.php",
+			"<project>,-/vendor/*,*.php,*.js",
+			"<project>,-/vendor/*,*.php",
+			"<project>,-/vendor/*",
+			"/Users/sormy/htdocs/applehda-patcher",
+			"/Users/sormy/htdocs/applehda-patcher/src/Patcher",
+			"/Users/sormy/htdocs/applehda-patcher/src/Codec",
+			"/Users/sormy/htdocs/applehda-patcher,*.php",
+			"/Users/sormy/htdocs/emsow/include,*.php",
+			"/Users/sormy/htdocs/emsow,*.js",
+			"/Users/sormy/htdocs/emsow",
+			"/Users/sormy/htdocs/emsow/js/references,*.js",
+			"/Users/sormy/htdocs/emsow/js/references",
+			"/Users/sormy/htdocs/emsow,*.php",
+			"/Users/sormy/htdocs/emsow/include,*.php",
+			"/Users/sormy/htdocs/emsow,*.php",
+			"/Users/sormy/htdocs/emsow/src/UnvSoft/Component/Dicom,*.php",
+			"/Users/sormy/htdocs/emsow/vendor,*.php",
+			"/Users/sormy/htdocs/emsow/src/UnvSoft/Component/Dicom,*.php",
+			"/Users/sormy/htdocs/emsow/src",
+			"/Users/sormy/htdocs/emsow/src,*.php",
+			"/Users/sormy/htdocs/emsow/src",
+			"/Users/sormy/htdocs/emsow/vendor,*.php",
+			"/Users/sormy/htdocs/emsow/src,*.php",
+			"/Users/sormy/htdocs/emsow/app/cache",
+			"/Users/sormy/htdocs/emsow,*.php",
+			"/Users/sormy/htdocs/emsow",
+			"/Users/sormy/htdocs/emsow,*.php",
+			"/Users/sormy/htdocs/emsow/src",
+			"/Users/sormy/htdocs/emsow/src/UnvSoft/Component/Dicom",
+			"/Users/sormy/htdocs/emsow,*.php",
+			"/Users/sormy/htdocs/emsow",
+			"/Users/sormy/htdocs/emsow,*.php",
+			"/Users/sormy/htdocs/emsow",
+			"/Users/sormy/htdocs/emsow,*.php",
+			"/Users/sormy/htdocs/emsow/src/UnvSoft/Component/Dicom",
+			"/Users/sormy/htdocs/emsow/include",
+			"/Users/sormy/htdocs/emsow/src/UnvSoft/Bundle",
+			"/Users/sormy/htdocs/emsow/include",
+			"/Users/sormy/htdocs/emsow/include,*.php,-3rd",
+			"/Users/sormy/htdocs/emsow/include,*.php",
+			"/Users/sormy/htdocs/emsow/src",
+			"/Users/sormy/htdocs/emsow/src/UnvSoft/Component,*.php",
+			"/Users/sormy/htdocs/emsow/src,*.php",
+			"/Users/sormy/htdocs,*.php",
+			"<project>,*.php",
+			"/Users/sormy/htdocs/emsow/src/UnvSoft/Component",
+			"/Users/sormy/htdocs/emsow/src/UnvSoft",
+			"/Users/sormy/htdocs/emsow/src/UnvSoft/Component",
+			"/Users/sormy/htdocs/emsow,*.php",
+			"/Users/sormy/htdocs/emsow/src/UnvSoft/Component",
+			"/Users/sormy/htdocs/emsow/src/UnvSoft/Component/Dicom",
+			"<project>",
+			"<project>,*.js",
+			"/Users/sormy/htdocs/emsow,*.php",
+			"/Users/sormy/htdocs/emsow/data/sr",
+			"<project>",
+			"<project>,*.php",
+			"<project>",
+			"<project>,*.php",
+			"<project>",
+			"/Users/sormy/htdocs/emsow",
+			"/Users/sormy/htdocs/emsow,*.js",
+			"/Users/sormy/htdocs/emsow,*.js,*.css",
+			"/Users/sormy/htdocs/emsow,*.js",
+			"/Users/sormy/htdocs/emsow,*.js,*.css",
+			"/Users/sormy/htdocs/emsow,*.js,*.php,*.html,*.tpl,*.xtpl",
+			"/Users/sormy/htdocs/emsow/css",
+			"/Users/sormy/htdocs/emsow,*.js",
+			"/Users/sormy/htdocs/emsow",
+			"/Users/sormy/htdocs/emsow,*.js",
+			"/Users/sormy/htdocs/emsow",
+			"/Users/sormy/htdocs/emsow/css",
+			"/Users/sormy/htdocs/emsow",
+			"/Users/sormy/htdocs/emsow/include",
+			"/Users/sormy/htdocs/emsow/js"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"util",
+			"showHelp",
+			"runBefore",
+			"createSnapshot",
+			"listSnapshots",
+			"getSnapshotIdsToDelete",
+			"deleteSnapshot",
+			"showHelp",
+			"proces",
+			"xact_t",
+			"getTransactionDescription",
+			"xact_",
+			"isBalanceFixAllowed",
+			"syncPaymentTransaction",
+			"closeBalanceFixer",
+			"logBadFindAttempt",
+			"due to missing fields",
+			"due to missing fields ",
+			"var_templates_dir",
+			"writeoff",
+			"Unable to use ",
+			"Unable to use %s",
+			"Unable to use balance fix without writeoff amount(s)",
+			"Unable to use balance fix without writeoff amount",
+			"closeBalanceFixer",
+			"getTransactionDescription",
+			"getPostedPayment",
+			"syncPaymentTransaction",
+			"xact_",
+			"insurance_code",
+			"getCheckPaymentAmount",
+			"getCheckPaymentAmount\n",
+			"processCheck",
+			"deposit_date",
+			"xact_amount",
+			"xact_type",
+			"getCheckPaymentAmount",
+			"processCheck",
+			"DepositsReportAggregator",
+			"DepositsReportAggregator\n",
+			"mergeFields",
+			"joinFields",
+			"extractPageRecords",
+			"depositId",
+			"depositRecords",
+			"PostingReportParser",
+			"detectTypeByValue",
+			"10333",
+			"192.168.200.3",
+			"10.0.254.242",
+			"172.31.25.10",
+			"104",
+			"10.0.1.240",
+			"hasPaymentRecord",
+			"Unable to change PDF file version to",
+			"ExamBeginTime",
+			"begin time",
+			"begin time for study",
+			"ServiceBilling::",
+			"pending claims",
+			"pending close",
+			"status",
+			"get_timezones_list",
+			"check_date",
+			"allowed",
+			"denial",
+			"\\n",
+			"ERRORS",
+			"findFileByHash",
+			"getDataForGridHeader",
+			"savable",
+			"saveable",
+			"savable",
+			", checked: false",
+			", checked: true",
+			"\"",
+			"check_ad",
+			"this.store",
+			"Ext.data.JsonStore",
+			"\"",
+			"this.store",
+			"Ext.data.JsonStore",
+			"store.loadData",
+			"getAffectedChecks",
+			"EobPostingSummaryDialog",
+			"errortpl",
+			"used_",
+			"addCheck",
+			"reverse-payment-adjustment",
+			"reverse-payment-adjustment\nreverse-payment-adjustment",
+			"reverse-payment-adjustment",
+			"reverse-payment-adjustment ",
+			"reverse-payment-adjustment",
+			"addReversePaymentAdjustmentTransaction",
+			"pay_charge_amount - total_allowed_amount",
+			"check_ad",
+			"addReversePaymentAdjustmentTransaction",
+			"reverse-payment-adjustment",
+			"addReversePaymentAdjustmentTransaction",
+			"total_allowed_amount",
+			"addReversePaymentAdjustmentTransaction",
+			"reverse-payment-adjustment",
+			"getPaymentRecord",
+			"reverse-payment-adjustment",
+			"addreve",
+			"getPaymentRecord",
+			"addReversePaymentAdjustmentTransaction",
+			"reverse-payment-adjustment",
+			"addChargeTransaction",
+			"bilsubop_is_closed",
+			"charge",
+			"bilsubop_",
+			"reverse-payment-adjustment",
+			"$record[\"state\"][\"bilsubop_id\"]",
+			"[\"state\"][\"bilsubop_id\"]",
+			"reject",
+			"addReversePaymentAdjustmentTransaction",
+			"reverse-payment-adjustment",
+			"addTransaction",
+			"addReversePaymentAdjustmentTransaction",
+			"processRecord",
+			"getPaymentRecord",
+			"hasReversalRefundRecord",
+			"isReversalRecord",
+			"revers",
+			"file_types",
+			"ack",
+			"~ack"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"', '",
+			"ttr_act(\\1)",
+			" ",
+			"',",
+			"'\\1'",
+			"'\\0'",
+			"'\\1'",
+			"",
+			"\\1",
+			",",
+			"ScanBox",
+			"scanBox",
+			"\\1// <debug>\\n\\1Ext.Compat.deprecate(\"\\2\", \"\\3\");\\n\\1// </debug>",
+			"wrong procedure",
+			"wrong DoS",
+			"SID instead of PID",
+			"",
+			"\\1\\t",
+			"",
+			"\\1\\t",
+			"",
+			"\\1\\t",
+			"",
+			"\\1\\t",
+			"",
+			"\\1\\t",
+			"",
+			"\\1\\t",
+			"",
+			"\\UnvSoft\\Component\\Database\\Exception\\ConnectionException",
+			"isTemporalTable",
+			"hasTemporalTable",
+			"XFormat",
+			"Sys",
+			"App",
+			"<?php\n\n/**",
+			"throw new Exception",
+			"throw new \\\\Exception",
+			"throw new \\Exception",
+			"\\1\\\\\\2::",
+			" \\\\Sys::",
+			"\\\\Sys::",
+			"\\Sys::",
+			"self::",
+			"private static ",
+			" */\npublic private function ",
+			" */\npublic static function ",
+			"self::",
+			"function ",
+			"CommonFunctions::\\1",
+			"СommonFunctions::\\1",
+			"СommonFunctions::\\0",
+			"@var",
+			"\\1 => \"\\2\",\\n",
+			"ttr_act(\\1)",
+			"",
+			"Connection",
+			"```",
+			"isDisconnected",
+			"",
+			"estimated_income_accuracy",
+			"estimated_income",
+			"number_of_orders:number2:",
+			"number_of_studies:number2:",
+			"number2(2)",
+			"(13)",
+			"lpad",
+			"rpad",
+			"",
+			":cpad",
+			"lpad",
+			"real_connections",
+			"vendorId",
+			"insert into technicians_pay_rates(\n    technician_id, \n    tech_pay_rate_from, \n    tech_pay_rate_to,\n    tech_pay_rate_per_month,\n    tech_pay_rate_per_hour,\n    cts,\n    cusr\n) values (\n    (select technician_id from technicians \n        where technician_last_name = '\\1' \n            and technician_first_name = '\\2'), \n    2013-01-01, \n    2099-01-01, \n    \\3, \n    \\4,\n    now(),\n    1\n);\n",
+			"insert into technicians_pay_rates(\n    technician_id, \n    tech_pay_rate_from, \n    tech_pay_rate_to,\n    company_pay_rate_per_month,\n    company_pay_rate_per_day,\n    cts,\n    cusr\n) values (\n    (select technician_id from technicians \n        where technician_last_name = '\\1' \n            and technician_first_name = '\\2'), \n    2013-01-01, \n    2099-01-01, \n    \\3, \n    \\4,\n    now(),\n    1\n);\n",
+			"insert into technicians_pay_rates(\n    technician_id, \n    tech_pay_rate_from, \n    tech_pay_rate_to,\n    company_pay_rate_per_month,\n    company_pay_rate_per_day,\n    cts,\n    cusr\n) values (\n    (select technician_id from technicians \n        where technician_last_name = '\\1' \n            and technician_fisrt_name = '\\2'), \n    2013-01-01, \n    2099-01-01, \n    \\3, \n    \\4,\n    now(),\n    1\n);\n",
+			"insert into technicians_pay_rates values (\n    technician_id, \n    tech_pay_rate_from, \n    tech_pay_rate_to,\n    company_pay_rate_per_month,\n    company_pay_rate_per_day,\n    cts,\n    cusr\n) values (\n    (select technician_id from technicians \n        where technician_last_name = '\\1' \n            and technician_fisrt_name = '\\2'), \n    2013-01-01, \n    2099-01-01, \n    \\3, \n    \\4,\n    now(),\n    1\n);\n",
+			"insert into technicians_pay_rates values (\n    technician_id, \n    tech_pay_rate_from, \n    tech_pay_rate_to,\n    company_pay_rate_per_month,\n    company_pay_rate_per_day,\n    cts,\n    cusr\n) values (\n    (select technician_id from technicians \n        where technician_last_name = '\\1' \n            and technician_fisrt_name = '\\2'), \n    2013-01-01, \n    2099-01-01, \n    \\3, \n    \\4,\n    now(),\n    1\n);",
+			"",
+			"x",
+			"axisY",
+			"axisX",
+			"unitsY",
+			"unitsX",
+			"delta",
+			"deltaY",
+			"deltaX",
+			"$this->transcoder->getDicomFile()",
+			"imagemagickBackend",
+			"this->dicomFile",
+			"toSqlDateTime",
+			"ToSqlDateTime",
+			"toSqlDateTime",
+			"assertSame",
+			"],",
+			",",
+			"\"",
+			"xmlWriter",
+			"DateTime",
+			"$this->rootDataElement",
+			"query",
+			"",
+			"abstract protected",
+			"$this->vm",
+			"$this->vr",
+			"",
+			"uglifyjs2",
+			"uglifycss",
+			"uglifyjs2",
+			"filter=",
+			"?uglifyjs2",
+			"\"",
+			"yui_js",
+			"asset('",
+			"=",
+			"0x01\\1\\n",
+			"0x00\\1\\n",
+			"0x01\\1\\n",
+			"0x01\\1",
+			" ",
+			"App::$ttr->quote",
+			"\\Auth::",
+			"Debug::deprecate(\"Deprecated call \" . __METHOD__);",
+			"trigger_error(sprintf(\"Method %s is deprecated\", __METHOD__), E_USER_DEPRECATED);",
+			"__METHOD__",
+			"throw new NotImplementedException();",
+			"\\PDO::",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "aws-snapshot-backup.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/sormy/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1243,
+								1243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 385.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "node_modules/moment/package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".jshintrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23,
+								23
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 673,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								446
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 207.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aws-snapshot-backup.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"usarad",
+				"utils/usarad-convert-templates.php"
+			],
+			[
+				"abstractexc",
+				"include/class/Billing/ReportParser/AbstractExcelParser.php"
+			],
+			[
+				"dataex",
+				"include/class/DataExport.php"
+			],
+			[
+				"example",
+				"include/config/example.php"
+			],
+			[
+				"defaul",
+				"include/config/default.php"
+			],
+			[
+				"medpointparse",
+				"medpoint-parse-posting-report.php"
+			],
+			[
+				"defa",
+				"include/config/default.php"
+			],
+			[
+				"importfeescommand",
+				"include/class/Billing/FeeSchedule/ImportFeesCommand.php"
+			],
+			[
+				"fees-im",
+				"utils/fees-import.php"
+			],
+			[
+				"log/wa",
+				"var/log/warnings"
+			],
+			[
+				"detailedpos",
+				"include/class/Billing/MedPoint/DetailedPostingReportParser.php"
+			],
+			[
+				"medpoint-",
+				"medpoint-parse-posting-report.php"
+			],
+			[
+				"parse",
+				"medpoint-parse-deposits-report.php"
+			],
+			[
+				"medpoint-a",
+				"medpoint-auto-posting.php"
+			],
+			[
+				"postingauto",
+				"include/class/Billing/Eob/PostingAutomator.php"
+			],
+			[
+				"emsow-domain-new",
+				"env/cloud/srv/emsow/bin/emsow-domain-new"
+			],
+			[
+				"todo.t",
+				"todo.txt"
+			],
+			[
+				"eraparse",
+				"include/class/Billing/Eob/EraParser.php"
+			],
+			[
+				"star-rec",
+				"utils/star-reconcile.php"
+			],
+			[
+				"pdfpar",
+				"include/class/Billing/ReportParser/AbstractPdfParser.php"
+			],
+			[
+				"eobpostingaut",
+				"include/class/Billing/Eob/PostingAutomator.php"
+			],
+			[
+				"billing_m",
+				"include/api/billing/billing_module.php"
+			],
+			[
+				"cleho",
+				"include/api/references/clehouses.php"
+			],
+			[
+				"clearing",
+				"include/api/clearing.php"
+			],
+			[
+				"checks.",
+				"js/billing/ChecksGrid.js"
+			],
+			[
+				"cr_utils",
+				"include/core/cr_utils.php"
+			],
+			[
+				"billingstora",
+				"include/class/Billing/Storage/Storage.php"
+			],
+			[
+				"billing_mod",
+				"include/api/billing/billing_module.php"
+			],
+			[
+				"doctrine/common/cache",
+				"vendor/doctrine/cache/lib/Doctrine/Common/Cache/FilesystemCache.php"
+			],
+			[
+				"clearing.ph",
+				"include/api/clearing.php"
+			],
+			[
+				"cachepro",
+				"vendor/doctrine/cache/lib/Doctrine/Common/Cache/CacheProvider.php"
+			],
+			[
+				"ormcache",
+				"vendor/doctrine/orm/lib/Doctrine/ORM/Cache.php"
+			],
+			[
+				"ormcachein",
+				"vendor/symfony/symfony/src/Symfony/Component/Validator/Mapping/Cache/CacheInterface.php"
+			],
+			[
+				"filecac",
+				"vendor/doctrine/cache/lib/Doctrine/Common/Cache/FileCache.php"
+			],
+			[
+				"checkboxgroup",
+				"js/components/CheckboxGroupAlt.js"
+			],
+			[
+				"aliasesfield.js",
+				"js/components/AliasesField.js"
+			],
+			[
+				"message.js",
+				"js/reports/MessageSendErrorsDialog.js"
+			],
+			[
+				"checks",
+				"include/api/billing/checks.php"
+			],
+			[
+				"postinvi",
+				"include/class/Billing/Eob/PostingView.php"
+			],
+			[
+				"ordersmo",
+				"js/orders/OrdersModule.js"
+			],
+			[
+				"clearing-",
+				"js/templates/clearing-file-is-opened.js"
+			],
+			[
+				"clearing-file-",
+				"js/templates/clearing-file-info.js"
+			],
+			[
+				"20151125225738.13603",
+				"utils/updates/update_20151125225738.13603.sql"
+			],
+			[
+				"clearing-file-name",
+				"js/templates/clearing-file-name.js"
+			],
+			[
+				"clearinggr",
+				"js/clearing/ClearingGrid.js"
+			],
+			[
+				"checkboxg",
+				"js/components/CheckboxGroupAlt.js"
+			],
+			[
+				"clearingopt",
+				"js/clearing/ClearingOptions.js"
+			],
+			[
+				"postingview",
+				"include/class/Billing/Eob/PostingView.php"
+			],
+			[
+				"format.",
+				"js/common/Format.js"
+			],
+			[
+				"postingcomm",
+				"include/class/Billing/Eob/PostingCommand.php"
+			],
+			[
+				"eobpostinst",
+				"js/clearing/posting/EobPostingStore.js"
+			],
+			[
+				"abstractparser",
+				"include/class/Billing/ReportParser/AbstractParser.php"
+			],
+			[
+				"checksgr",
+				"js/billing/ChecksGrid.js"
+			],
+			[
+				"sql",
+				"var/log/sql"
+			],
+			[
+				"dump",
+				"var/log/dumps"
+			],
+			[
+				"20151125161139.13603",
+				"utils/updates/update_20151125161139.13603.sql"
+			],
+			[
+				"835.ht",
+				"templates/report_x12_835.html"
+			],
+			[
+				"daterag",
+				"js/components/DateRangeField.js"
+			],
+			[
+				"999xsd",
+				"data/x12/X12_005010X231A1_999.xsd"
+			],
+			[
+				"billingmod",
+				"js/billing/BillingModuleOptions.js"
+			],
+			[
+				"billing",
+				"js/billing/BillingModuleGrid.js"
+			],
+			[
+				"eobpos",
+				"js/clearing/posting/EobPostingGrid.js"
+			],
+			[
+				"icons.",
+				"css/100.App.Icons.css"
+			],
+			[
+				"genericed",
+				"js/components/GenericEditWindowEx.js"
+			],
+			[
+				"generidc",
+				"js/components/GenericFilesGrid.js"
+			],
+			[
+				"dumps",
+				"var/log/dumps"
+			],
+			[
+				"dataexp",
+				"include/class/DataExport.php"
+			],
+			[
+				"ttr_che",
+				"utils/ttr_check.php"
+			],
+			[
+				"ttr.con",
+				"data/ttr.conf"
+			],
+			[
+				"clearingba",
+				"include/class/ClearingBatchGenerator.php"
+			],
+			[
+				"statementge",
+				"include/class/StatementGenerator.php"
+			],
+			[
+				"billingmodule",
+				"js/billing/BillingModuleOptions.js"
+			],
+			[
+				"examda",
+				"include/class/DataProvider/ExamDataProvider.php"
+			],
+			[
+				"servicedata",
+				"include/class/DataProvider/ServiceDataProvider.php"
+			],
+			[
+				"billing_da",
+				"include/api/billing/billing_dialog.php"
+			],
+			[
+				"domain-new",
+				"env/cloud/srv/emsow/bin/emsow-domain-new"
+			],
+			[
+				"clehos",
+				"include/api/references/clehouses.php"
+			],
+			[
+				"x12/dictionary",
+				"include/class/X12/Dictionary.php"
+			],
+			[
+				"warni",
+				"var/log/warnings"
+			],
+			[
+				"cr_",
+				"include/core/cr_main.php"
+			],
+			[
+				"13603",
+				"utils/updates/update_20151107173732.13603.sql"
+			],
+			[
+				"20151112040042.13603",
+				"utils/updates/update_20151112040042.13603.sql"
+			],
+			[
+				"inputopt",
+				"vendor/symfony/symfony/src/Symfony/Component/Console/Input/InputOption.php"
+			],
+			[
+				"exportco",
+				"include/class/Export/ExportCommand.php"
+			],
+			[
+				"start-do",
+				"env/cloud/srv/emsow/skel/bin/start-domain"
+			],
+			[
+				"commonfunctions",
+				"include/class/StructuredReporting/CommonFunctions.php"
+			],
+			[
+				"venouse_",
+				"data/sr-presets/venous_reflux_findings_v2.js"
+			],
+			[
+				"venouse",
+				"data/sr-presets/venous_reflux_findings_v1.js"
+			],
+			[
+				"stateme",
+				"include/class/StatementGenerator.php"
+			],
+			[
+				"fileimpo",
+				"include/class/Billing/Storage/Command/FileImportCommand.php"
+			],
+			[
+				"sftpinter",
+				"include/class/ClearingBridgeSftpInterface.php"
+			],
+			[
+				"localdir",
+				"include/class/ClearingBridgeLocalDirInterface.php"
+			],
+			[
+				"iplexuswe",
+				"include/class/ClearingBridgeIplexusWebInterface.php"
+			],
+			[
+				"emedn",
+				"include/class/ClearingBridgeEmednyWebInterface.php"
+			],
+			[
+				"clehouse",
+				"include/api/references/clehouses.php"
+			],
+			[
+				"clearingbat",
+				"include/class/ClearingBatchGenerator.php"
+			],
+			[
+				"clearingdaem",
+				"include/class/Daemon/ClearingBridgeDaemon.php"
+			],
+			[
+				"symfofilesystem.p",
+				"vendor/symfony/symfony/src/Symfony/Component/Filesystem/Filesystem.php"
+			],
+			[
+				"deaful",
+				"include/config/default.php"
+			],
+			[
+				"billing_module.php",
+				"include/api/billing/billing_module.php"
+			],
+			[
+				"default.",
+				"include/config/default.php"
+			],
+			[
+				"default",
+				"include/config/default.php"
+			],
+			[
+				"permis",
+				"data/permissions.conf"
+			],
+			[
+				"clearingd",
+				"js/references/ClearingHouseEditDialog.js"
+			],
+			[
+				"clearingho",
+				"js/references/ClearingHouseEditDialog.js"
+			],
+			[
+				"example.",
+				"include/config/example.php"
+			],
+			[
+				"cr_main",
+				"include/core/cr_main.php"
+			],
+			[
+				"ttr.c",
+				"data/ttr.conf"
+			],
+			[
+				"symfonyfilesystem.php",
+				"vendor/symfony/symfony/src/Symfony/Component/Filesystem/Filesystem.php"
+			],
+			[
+				"clearingdialog",
+				"js/references/ClearingHouseEditDialog.js"
+			],
+			[
+				"835html",
+				"templates/report_x12_835.html"
+			],
+			[
+				"clearingfiledi",
+				"js/clearing/ClearingFileContentsDialog.js"
+			],
+			[
+				"update_20151112040042.13603.sql",
+				"utils/updates/update_20151112040042.13603.sql"
+			],
+			[
+				"app.comm",
+				"css/100.App.Common.css"
+			],
+			[
+				"sideoptionspanel",
+				"js/components/SideOptionsPanel.js"
+			],
+			[
+				"ext.form.rad",
+				"js/init-extjs/Ext.form.RadioGroup.js"
+			],
+			[
+				"app.css",
+				"css/100.App.Common.css"
+			],
+			[
+				"ordersmod",
+				"js/orders/OrdersModule.js"
+			],
+			[
+				"billingmodgrid",
+				"js/billing/BillingModuleGrid.js"
+			],
+			[
+				"initgrouping.js",
+				"js/init-extjs/Ext.grid.GroupingView.js"
+			],
+			[
+				"20151107173732.13603",
+				"utils/updates/update_20151107173732.13603.sql"
+			],
+			[
+				"reconcilmo",
+				"include/class/Billing/MedPoint/ReconcileCommand.php"
+			],
+			[
+				"medpoint-rec",
+				"utils/medpoint-reconcile.php"
+			],
+			[
+				"defau",
+				"include/config/default.php"
+			],
+			[
+				"api.c",
+				"data/api.conf"
+			],
+			[
+				"postingcom",
+				"include/class/Billing/Eob/PostingCommand.php"
+			],
+			[
+				"reportma",
+				"include/class/Billing/Reconcile/ReportMatcher.php"
+			],
+			[
+				"groupingv",
+				"vendor/sencha/extjs3/src/widgets/grid/GroupingView.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/htdocs/dcmtk.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"last_filter": "addSubscriberLevel",
+		"selected_items":
+		[
+			[
+				"addSubscriberLevel",
+				"generateBatch_x12_addSubscriberLevel"
+			],
+			[
+				"get_timez",
+				"get_timezones_list"
+			],
+			[
+				"fetchBillingParams",
+				"fetchBillingParams"
+			],
+			[
+				"addapp",
+				"addAppTab"
+			],
+			[
+				"regenerateServiceByBilSubOps",
+				"regenerateServiceByBilSubOps"
+			],
+			[
+				"get_service_exam",
+				"API_get_service_exam_info"
+			],
+			[
+				"addAppTab",
+				"addAppTab"
+			],
+			[
+				"addtab",
+				"addTab"
+			],
+			[
+				"gettempora",
+				"getTemporaryFilename"
+			],
+			[
+				"usm",
+				"usMoney"
+			],
+			[
+				"nullhandl",
+				"NullHandler"
+			],
+			[
+				"groupBy",
+				"groupBy"
+			],
+			[
+				"convert_to_pdf",
+				"convert_to_pdf"
+			],
+			[
+				"gettemporayf",
+				"getTemporaryFilename"
+			],
+			[
+				"convert_to",
+				"convert_to_pdf"
+			],
+			[
+				"dumpFile",
+				"dumpFile"
+			],
+			[
+				"API_au",
+				"API_autofill_services"
+			],
+			[
+				"getBilsubopsByParams",
+				"getBilsubopsByParams"
+			],
+			[
+				"autofill_services",
+				"API_autofill_services"
+			],
+			[
+				"upload_ser",
+				"API_upload_service_file"
+			],
+			[
+				"array_group_re",
+				"array_group_re"
+			],
+			[
+				"messageex",
+				"MessageException"
+			],
+			[
+				"calculate_bilallowed",
+				"calculate_bilallowed"
+			],
+			[
+				"filesystem",
+				"Filesystem"
+			],
+			[
+				"addchec",
+				"addCheckDigit"
+			],
+			[
+				"getdicomfi",
+				"getDicomFile"
+			],
+			[
+				"getDIcomFIl",
+				"getDicomFile"
+			],
+			[
+				"getDocumentFile",
+				"getDocumentFile"
+			],
+			[
+				"download_ser",
+				"API_download_service_file"
+			],
+			[
+				"getFilesByServices",
+				"getFilesByServices"
+			],
+			[
+				"fetchSet",
+				"fetchSet"
+			],
+			[
+				"payerf",
+				"payerFullName"
+			],
+			[
+				"insposFullName",
+				"insposFullName"
+			],
+			[
+				"addXactWriteOff",
+				"addXactWriteOff"
+			],
+			[
+				"getBilsubopsXacts",
+				"getBilsubopsXacts"
+			],
+			[
+				"array_unset_column",
+				"array_unset_column"
+			],
+			[
+				"inline-",
+				"inline-icon"
+			],
+			[
+				"loadMetaData",
+				"loadMetaData"
+			],
+			[
+				"addCheckDigit",
+				"addCheckDigit"
+			],
+			[
+				"array_col",
+				"array_unset_column"
+			],
+			[
+				"setCheckDepositsParser",
+				"setCheckDepositsParser"
+			],
+			[
+				"getmer",
+				"getMergeCells"
+			],
+			[
+				"addOp",
+				"addOption"
+			],
+			[
+				"PHPExcel_Shared_Font",
+				"PHPExcel_Shared_Font"
+			],
+			[
+				"getTrueTypeFontFileFromFont",
+				"getTrueTypeFontFileFromFont"
+			],
+			[
+				"setTrueTypeFontPath",
+				"setTrueTypeFontPath"
+			],
+			[
+				"output",
+				"output_file"
+			],
+			[
+				"output_f",
+				"output_file"
+			],
+			[
+				"output_fi",
+				"output_file"
+			],
+			[
+				"output_F",
+				"output_file"
+			],
+			[
+				"get_file_mime_type",
+				"get_file_mime_type"
+			],
+			[
+				"get_aws_s3_client",
+				"get_aws_s3_client"
+			],
+			[
+				"getItemId",
+				"getItemId"
+			],
+			[
+				"render",
+				"renderAll"
+			],
+			[
+				"get_brac",
+				"get_branches_list"
+			],
+			[
+				"fetch",
+				"fetch"
+			],
+			[
+				"array_copy",
+				"array_copy"
+			],
+			[
+				"raiseError",
+				"raiseError"
+			],
+			[
+				"updateUidGroupsForPacsFiles",
+				"updateUidGroupsForPacsFiles"
+			],
+			[
+				"csv",
+				"parse_csv"
+			],
+			[
+				"findUnitSRValue",
+				"findUnitSRValue"
+			],
+			[
+				"applyUnitsToPatterns",
+				"applyUnitsToPatterns"
+			],
+			[
+				"array_co",
+				"array_copy"
+			],
+			[
+				"array_gr",
+				"array_group"
+			],
+			[
+				"array_column",
+				"array_column_ex"
+			],
+			[
+				"array_hash",
+				"array_hash"
+			],
+			[
+				"array_has",
+				"array_hash"
+			],
+			[
+				"merge_to",
+				"merge_any_files_to_pdf"
+			],
+			[
+				"get_order_info",
+				"get_order_info"
+			],
+			[
+				"getCompanyDoctors",
+				"getCompanyDoctors"
+			],
+			[
+				"getFilterForLoadingEvents",
+				"getFilterForLoadingEvents"
+			],
+			[
+				"getPlaceholderPositions",
+				"getPlaceholderPositions"
+			],
+			[
+				"getopt2",
+				"getopt2"
+			],
+			[
+				"json_encode_format",
+				"json_encode_format"
+			],
+			[
+				"getForcedVarList",
+				"getForcedVarList"
+			],
+			[
+				"create_sysvar_table",
+				"create_sysvar_table"
+			],
+			[
+				"get_graphics_file",
+				"get_graphics_file"
+			],
+			[
+				"getServiceNotes",
+				"getServiceNotes"
+			],
+			[
+				"rename",
+				"rename"
+			],
+			[
+				"rena",
+				"rename"
+			],
+			[
+				"getFieldsForPacsSenderFilesSql",
+				"getFieldsForPacsSenderFilesSql"
+			],
+			[
+				"getPacsSenderFilesDaemon",
+				"getPacsSenderFilesDaemon"
+			],
+			[
+				"getDicomFile",
+				"getDicomFile"
+			],
+			[
+				"getDicomFileCache",
+				"getDicomFileCache"
+			]
+		],
+		"width": 766.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
