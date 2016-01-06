@@ -4,6 +4,13 @@ AWS EC2 Snapshot Backup
 Installation
 ------------
 
+That script could be used on both Linux and Windows instances.
+
+For Linux you will need to install:
+
+  - aws-cli: http://docs.aws.amazon.com/cli/latest/userguide/installing.html
+  - nodejs: https://nodejs.org/en/download/
+
 ```
 mkdir /srv
 cd /srv
@@ -13,6 +20,14 @@ git checkout {version}
 node install
 ln -s /srv/aws-ec2-rsnapshot/aws-ec2-rsnapshot.js /usr/local/bin/aws-ec2-rsnapshot
 ```
+
+For Windows you will need to install:
+
+  - aws-cli: http://docs.aws.amazon.com/cli/latest/userguide/installing.html
+  - nodejs: https://nodejs.org/en/download/
+  - sync (optional): https://technet.microsoft.com/en-us/sysinternals/bb897438.aspx
+
+...
 
 Usage
 -----
