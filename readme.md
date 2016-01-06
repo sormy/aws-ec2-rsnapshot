@@ -44,12 +44,13 @@ Example
 
 For example, we would like to backup root voume and store 7 daily snapshots and 8 weekly snapshots.
 
-Here we assume that credentials and default region are stored in ~/.aws.
+Here we assume that credentials and default region are stored in /root/.aws and cron tasks run from root.
 
 File: /etc/cron.daily/aws-ec2-rsnapshot
 ```
 #!/bin/bash
 
+export HOME=/root
 output=$(aws-ec2-rsnapshot server.com/daily/root 7 vol-12345678 sync)
 if [ $? != 0 ]; then
     echo $output
@@ -60,6 +61,7 @@ File: /etc/cron.weekly/aws-ec2-rsnapshot
 ```
 #!/bin/bash
 
+export HOME=/root
 output=$(aws-ec2-rsnapshot server.com/weekly/root 8 vol-12345678 sync)
 if [ $? != 0 ]; then
     echo $output
